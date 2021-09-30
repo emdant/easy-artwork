@@ -1,0 +1,14 @@
+{
+  "name": "easy-artwork",
+  "title": "Easy Artwork",
+  "description": "Adds a button to show an artwork on the entity title bar",
+  "authors": [{"name":"emdant"}],
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.5",
+  "compatibleCoreVersion":"0.8.9",
+  "scripts": [
+  	"easyartwork.js"
+  ],
+  "url":"https://github.com/emdant/easy-artwork",
+  "manifest":"https://raw.githubusercontent.com/emdant/easy-artwork/master/module.json"
+}
