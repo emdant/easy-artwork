@@ -7,8 +7,10 @@
   "minimumCoreVersion": "0.8.5",
   "compatibleCoreVersion":"0.8.9",
   "scripts": [
-  	"easyartwork.js"
+  	"easy-artwork.js"
   ],
+  "socket": true,
+  "changelog": "https://github.com/emdant/easy-artwork/commits/master",
   "url":"https://github.com/emdant/easy-artwork",
   "manifest":"https://raw.githubusercontent.com/emdant/easy-artwork/master/module.json"
 }
