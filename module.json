@@ -1,7 +1,7 @@
 {
   "id": "easy-artwork",
   "title": "Easy Artwork",
-  "description": "Adds a button to show the artwork of any Item or Actor on the entity's title bar",
+  "description": "Allows to easily display the artwork of any Item or Actor from within their own sheet.",
   "authors": [
     {
       "name": "emdant"
@@ -9,12 +9,12 @@
   ],
   "url": "https://github.com/emdant/easy-artwork",
   "changelog": "https://github.com/emdant/easy-artwork/commits/master",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": [
     "easy-artwork.js"
   ],
   "socket": true,
-  "download": "https://github.com/emdant/easy-artwork/releases/download/v1.0.0/module.zip",
+  "download": "https://github.com/emdant/easy-artwork/releases/download/v1.0.2/module.zip",
   "manifest": "https://github.com/emdant/easy-artwork/releases/latest/download/module.json",
   "compatibility": {
     "minimum": "10",

@@ -11,6 +11,8 @@ function addButton(sheet, buttons) {
 				title: doc.name,
 				uuid: doc.uuid
 			});
+
+			ui.notifications.info("Artwork shown to all other users");
 		}
 	});
 }
