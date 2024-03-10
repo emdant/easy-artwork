@@ -5,7 +5,7 @@ function addSheetButton(sheet, buttons) {
 		label: 'Show Artwork',
 		onclick: (e) => {
 			const doc = sheet.document;
-			new ImagePopout(doc.img, { title: doc.name, uuid: doc.uui }).render(true);
+			new ImagePopout(doc.img, { title: doc.name, uuid: doc.uuid }).render(true);
 		}
 	});
 }
