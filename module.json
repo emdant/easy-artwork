@@ -15,7 +15,7 @@
   ],
   "url": "https://github.com/emdant/easy-artwork",
   "changelog": "https://github.com/emdant/easy-artwork/commits/master",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "scripts": [
     "easy-artwork.js"
   ],
@@ -24,6 +24,6 @@
   "manifest": "https://github.com/emdant/easy-artwork/releases/latest/download/module.json",
   "compatibility": {
     "minimum": "10",
-    "verified": "11"
+    "verified": "12"
   }
 }
